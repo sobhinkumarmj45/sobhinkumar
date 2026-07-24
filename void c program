@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void greet();
+void main()
+{
+    greet();
+}
+
+void greet()
+{
+    printf("Welcome to fantasy Function");
+      
+}
